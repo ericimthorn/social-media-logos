@@ -1,0 +1,45 @@
+.svg-icons-facebook {
+	background: url(../sprite/svg-sprite.svg) 0 0 no-repeat;
+}
+
+.svg-icons-facebook-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-icons-instagram {
+	background: url(../sprite/svg-sprite.svg) 50% 0 no-repeat;
+}
+
+.svg-icons-instagram-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-icons-soundcloud {
+	background: url(../sprite/svg-sprite.svg) 0 100% no-repeat;
+}
+
+.svg-icons-soundcloud-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-icons-twitter {
+	background: url(../sprite/svg-sprite.svg) 50% 100% no-repeat;
+}
+
+.svg-icons-twitter-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-icons-youtube {
+	background: url(../sprite/svg-sprite.svg) 100% 0 no-repeat;
+}
+
+.svg-icons-youtube-dims {
+	width: 20px;
+	height: 20px;
+}
+
