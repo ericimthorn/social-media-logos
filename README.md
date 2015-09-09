@@ -7,9 +7,9 @@ I have taken the SoundCloud icon form their embedded player because the larger o
 
 The `css` foler contains:
   - The icons in `svg` inside `css/icons`
-  - A *svg sprite* inside `css/sprite` with complementary css files inside `css/css`
-The css files and the sprite is created with `gulp` + `gulp-svg-sprite` from the files inside `css/icons`.
-There is no png fallback so the browser support is IE9+.
+  - A *svg sprite* inside `css/sprite` with complementary css files inside `css/css`.   
+The css files and the sprite is created with `gulp` + `gulp-svg-sprite` from the files inside `css/icons`.   
+There is no png fallback so the browser support is IE9+.   
 The project documentation on gulp-svg-sprite can be found here:  
 <https://github.com/jkphl/gulp-svg-sprite/blob/master/README.md#basic-example>
 
