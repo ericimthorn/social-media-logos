@@ -5,9 +5,12 @@ The file `icons.eps` contains my `20px x 20px` renditions of various social medi
 I tried to keep all the different style-guides in mind, but I have taken some liberties to keep uniformity. 
 I have taken the SoundCloud icon form their embedded player because the larger one does not work in small sizes.
 
-In the folder `css`, there is *svg sprite* and complementary css files created with `gulp` with `gulp-svg-sprite` from the files inside `css/icons`.
+The `css` foler contains:
+  - The icons in `svg` inside `css/icons`
+  - A *svg sprite* inside `css/sprite` with complementary css files inside `css/css`
+The css files and the sprite is created with `gulp` + `gulp-svg-sprite` from the files inside `css/icons`.
 There is no png fallback so the browser support is IE9+.
-The project documentation on gulp-svg-sprite can be found here:
+The project documentation on gulp-svg-sprite can be found here:  
 <https://github.com/jkphl/gulp-svg-sprite/blob/master/README.md#basic-example>
 
 Gulp outputs `.css`, `.styl` (Stylus) and `.scss` (SASS/SCSS)
