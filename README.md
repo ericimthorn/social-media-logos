@@ -1,4 +1,4 @@
-#Social media logo's (small icons)
+#Social media logos (small icons)
 *New logo's will be added when I need them*
 
 The file `icons.eps` contains my `20px x 20px` renditions of various social media icons in white.
