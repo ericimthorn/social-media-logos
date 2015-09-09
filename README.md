@@ -1,10 +1,9 @@
-#Social media logo's (Small icons)
-This folder contains official social media icons from the brand-pages of the owners of the logo's.  
+#Social media logo's (small icons)
 *New logo's will be added when I need them*
 
-The file `icons.eps` contains my `20px x 20px` renditions of the logo's in white.
-I tried to keep all the different style-guides in mind while keeping uniformity but I have taken some liberties. 
-I have taken the SoundCloud icon form their embedded player.
+The file `icons.eps` contains my `20px x 20px` renditions of various social media icons in white.
+I tried to keep all the different style-guides in mind, but I have taken some liberties to keep uniformity. 
+I have taken the SoundCloud icon form their embedded player because the larger one does not work in small sizes.
 
 In the folder `css`, there are svg-sprite and css files created with `gulp` and `gulp-svg-sprite`.
 There is no png fallback so the browser support is IE9+.
