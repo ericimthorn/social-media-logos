@@ -1,4 +1,4 @@
-#Social media logo's
+#Social media logo's (Small icons)
 This folder contains official social media icons from the brand-pages of the owners of the logo's.  
 *New logo's will be added when I need them*
 
@@ -10,6 +10,8 @@ In the folder `css`, there are svg-sprite and css files created with `gulp` and 
 There is no png fallback so the browser support is IE9+.
 The project documentation can be found here:
 <https://github.com/jkphl/gulp-svg-sprite/blob/master/README.md#basic-example>
+
+This project outputs `.css`, `.styl` (Stylus) and `.scss` (SASS/SCSS)
 
 Links to the style guides can be found here:
   - Facebook <https://www.facebookbrand.com/>
