@@ -1,44 +1,71 @@
-.svg-icons-facebook {
-	background: url(../sprite/svg-sprite.svg) 0 0 no-repeat;
+.svg-icon_Facebook {
+	background: url("../sprite/svg-sprite.svg") 0 0 no-repeat;
 }
 
-.svg-icons-facebook-dims {
+.svg-icon_Facebook-dims {
 	width: 20px;
 	height: 20px;
 }
 
-.svg-icons-instagram {
-	background: url(../sprite/svg-sprite.svg) 50% 0 no-repeat;
+.svg-icon_GooglePlus {
+	background: url("../sprite/svg-sprite.svg") 50% 0 no-repeat;
 }
 
-.svg-icons-instagram-dims {
+.svg-icon_GooglePlus-dims {
 	width: 20px;
 	height: 20px;
 }
 
-.svg-icons-soundcloud {
-	background: url(../sprite/svg-sprite.svg) 0 100% no-repeat;
+.svg-icon_Instagram {
+	background: url("../sprite/svg-sprite.svg") 0 50% no-repeat;
 }
 
-.svg-icons-soundcloud-dims {
+.svg-icon_Instagram-dims {
 	width: 20px;
 	height: 20px;
 }
 
-.svg-icons-twitter {
-	background: url(../sprite/svg-sprite.svg) 50% 100% no-repeat;
+.svg-icon_LinkedIn {
+	background: url("../sprite/svg-sprite.svg") 50% 50% no-repeat;
 }
 
-.svg-icons-twitter-dims {
+.svg-icon_LinkedIn-dims {
 	width: 20px;
 	height: 20px;
 }
 
-.svg-icons-youtube {
-	background: url(../sprite/svg-sprite.svg) 100% 0 no-repeat;
+.svg-icon_Pinterest {
+	background: url("../sprite/svg-sprite.svg") 100% 0 no-repeat;
 }
 
-.svg-icons-youtube-dims {
+.svg-icon_Pinterest-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-icon_SoundCloud {
+	background: url("../sprite/svg-sprite.svg") 100% 50% no-repeat;
+}
+
+.svg-icon_SoundCloud-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-icon_Twitter {
+	background: url("../sprite/svg-sprite.svg") 0 100% no-repeat;
+}
+
+.svg-icon_Twitter-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-icon_YouTube {
+	background: url("../sprite/svg-sprite.svg") 50% 100% no-repeat;
+}
+
+.svg-icon_YouTube-dims {
 	width: 20px;
 	height: 20px;
 }

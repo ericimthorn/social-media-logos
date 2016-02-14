@@ -9,9 +9,9 @@
   "author": "Eric Imthorn",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.0",
-    "gulp-svg-sprite": "^1.2.9",
-    "gulp-sass": "^2.0.0",
+    "gulp": "latest",
+    "gulp-svg-sprite": "latest",
+    "gulp-sass": "latest",
     "gulp-stylus": "latest"
   }
 }

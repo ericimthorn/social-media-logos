@@ -4,7 +4,7 @@ var stylus       = require('gulp-stylus');
 var svgSprite    = require('gulp-svg-sprite');
 
 //// ### SCG Sprite
-gulp.task('svgsprite', function() {
+gulp.task('sprite', function() {
   var config = {
     mode: {
       css: {     // Activate the «css» mode
@@ -25,5 +25,5 @@ gulp.task('svgsprite', function() {
 
 //// ### RUN DEFAULT GULP
 gulp.task('default', function() {
-  gulp.start('svgsprite');
+  gulp.start('sprite');
 });

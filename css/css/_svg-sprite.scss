@@ -1,53 +1,83 @@
 %svg-common {
-	background: url(../sprite/svg-sprite.svg) no-repeat;
+	background: url("../sprite/svg-sprite.svg") no-repeat;
 }
 
-.svg-icons-facebook {
+.svg-icon_Facebook {
 	@extend %svg-common;
 	background-position: 0 0;
 }
 
-.svg-icons-facebook-dims {
+.svg-icon_Facebook-dims {
 	width: 20px;
 	height: 20px;
 }
 
-.svg-icons-instagram {
+.svg-icon_GooglePlus {
 	@extend %svg-common;
 	background-position: 50% 0;
 }
 
-.svg-icons-instagram-dims {
+.svg-icon_GooglePlus-dims {
 	width: 20px;
 	height: 20px;
 }
 
-.svg-icons-soundcloud {
+.svg-icon_Instagram {
 	@extend %svg-common;
-	background-position: 0 100%;
+	background-position: 0 50%;
 }
 
-.svg-icons-soundcloud-dims {
+.svg-icon_Instagram-dims {
 	width: 20px;
 	height: 20px;
 }
 
-.svg-icons-twitter {
+.svg-icon_LinkedIn {
 	@extend %svg-common;
-	background-position: 50% 100%;
+	background-position: 50% 50%;
 }
 
-.svg-icons-twitter-dims {
+.svg-icon_LinkedIn-dims {
 	width: 20px;
 	height: 20px;
 }
 
-.svg-icons-youtube {
+.svg-icon_Pinterest {
 	@extend %svg-common;
 	background-position: 100% 0;
 }
 
-.svg-icons-youtube-dims {
+.svg-icon_Pinterest-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-icon_SoundCloud {
+	@extend %svg-common;
+	background-position: 100% 50%;
+}
+
+.svg-icon_SoundCloud-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-icon_Twitter {
+	@extend %svg-common;
+	background-position: 0 100%;
+}
+
+.svg-icon_Twitter-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-icon_YouTube {
+	@extend %svg-common;
+	background-position: 50% 100%;
+}
+
+.svg-icon_YouTube-dims {
 	width: 20px;
 	height: 20px;
 }
