@@ -23,4 +23,5 @@ Links to the style guides can be found here:
   - Pinterest <https://business.pinterest.com/en/brand-guidelines>
   - SoundCloud <https://developers.soundcloud.com/docs/api/buttons-logos>
   - Twitter <https://about.twitter.com/company/brand-assets>
+  - WhatsApp <https://www.whatsappbrand.com/>
   - YouTube <https://www.youtube.com/yt/brand/nl/downloads.html>
